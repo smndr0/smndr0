@@ -1,9 +1,5 @@
 Assalomu alaykum
 
-
-**smndr0/smndr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I’m currently learning ...
 I’m looking to collaborate on ...
 💬 Ask me about
@@ -21,7 +17,3 @@ I’m looking to collaborate on ...
 ![](https://nirzak-streak-stats.vercel.app/?user=smndr0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smndr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=smndr0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
